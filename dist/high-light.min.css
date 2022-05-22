@@ -1,4 +1,4 @@
-.high-light.black-widow{padding:.2em .5em;font-size:.875em;background-color:#272727;color:#fff;border-radius:5px}.high-light.light-knight{padding:.2em .5em;font-size:.875em;background-color:#ccc;color:#272727;border-radius:5px}/*!
+.high-light.black-widow{padding:.2em .5em;font-size:.875em;background-color:#3c3c3c;color:#f2f2f2;border-radius:5px;transition:background-color .25s,color .25s}.high-light.black-widow.is-link{cursor:pointer;text-decoration:none}.high-light.black-widow.is-link:hover{background-color:#232323;color:#fff}.high-light.light-knight{padding:.2em .5em;font-size:.875em;background-color:#ccc;color:#272727;border-radius:5px}/*!
  * high-light -https://github.com/rizz-wan/
  * Version - 1.0.0
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
