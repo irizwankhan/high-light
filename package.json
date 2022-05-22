@@ -1,0 +1,13 @@
+{
+  "name": "high-light",
+  "version": "1.0.0",
+  "description": "A cross-browser library of CSS to highlight your content.",
+  "author": "Rizwan Khan",
+  "scripts": {
+    "build": "sass --no-source-map --style=expanded high-light:dist",
+    "start": "sass --watch --update --no-source-map --style=expanded scss:css"
+  },
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
