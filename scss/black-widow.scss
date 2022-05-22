@@ -1,7 +1,16 @@
 .high-light.black-widow {
   padding: 0.2em 0.5em;
   font-size: 0.875em;
-  background-color: #272727;
-  color: #ffffff;
+  background-color: #3c3c3c;
+  color: #f2f2f2;
   border-radius: 5px;
+  transition: background-color 0.25s, color 0.25s;
+  &.is-link {
+    cursor: pointer;
+    text-decoration: none;
+    &:hover {
+      background-color: #232323;
+      color: #ffffff;
+    }
+  }
 }
