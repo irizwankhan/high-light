@@ -2,6 +2,8 @@
 
 A cross-browser library of CSS to highlight your content.
 
+![high-light](./img/high-light.png)
+
 ## License
 
 MIT License
